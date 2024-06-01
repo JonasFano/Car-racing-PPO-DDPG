@@ -1,6 +1,6 @@
 # Car_racing_PPO_DDPG
 
-![Car-Racing-PPO-optimized-gif](https://github.com/JonasFano/Car-racing-PPO-DDPG/assets/101502365/c0f3543d-9177-46c3-a8d1-67ea0ae96584)
+<div align=center><img src="PPO/results/Car-Racing-PPO-optimized-gif.gif"/></div>
 
 
 ### Short project description
