@@ -1,5 +1,8 @@
 # Car_racing_PPO_DDPG
 
+![Car-Racing-PPO-optimized-gif](https://github.com/JonasFano/Car-racing-PPO-DDPG/assets/101502365/c0f3543d-9177-46c3-a8d1-67ea0ae96584)
+
+
 ### Short project description
 This project was done in the Tools of Artificial Intelligence course of the Master's programme "Robot Systems - Advanced Robotics Technology" at the University of Southern Denmark (SDU). The task was to implement and use at least two algorithms related to neural networks, reinforcement learning or other algorithms related to the lecture.
 
