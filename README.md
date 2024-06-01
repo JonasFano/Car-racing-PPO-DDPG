@@ -47,8 +47,8 @@ This GitHub includes 4 trained models. Each was trained approx. 2000 episodes wi
   - statistical_test.m
     - For performing the Mann Whitney-U test to compare the test run results
   - test.py
-    - Run this for testing a model (remember changing the model_name and render_mode in config.py)
+    - Run this for testing a model (remember to change the model_name and render_mode in config.py)
   - train.py
-    - Run this for training a model (remember changing the model_name, render_mode and csv_log_file in config.py)
+    - Run this for training a model (remember to change the model_name, render_mode and csv_log_file in config.py)
   - visu.py
     - Run this for visualizing the training results saved in Training/Logs
