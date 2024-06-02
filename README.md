@@ -55,3 +55,4 @@ This GitHub includes 4 trained models. Each was trained approx. 2000 episodes wi
     - Run this for training a model (remember to change the model_name, render_mode and csv_log_file in config.py)
   - visu.py
     - Run this for visualizing the training results saved in Training/Logs
+- requirements.txt: Contains all required libraries for running the code
