@@ -6,9 +6,7 @@
 ### Short project description
 This project was done in the Tools of Artificial Intelligence course of the Master's programme "Robot Systems - Advanced Robotics Technology" at the University of Southern Denmark (SDU). The task was to implement and use at least two algorithms related to neural networks, reinforcement learning or other algorithms related to the lecture.
 
-It includes a PPO algorithm optimized for training an reinforcement learning agent to navigate through the Gymnasium Car-Racing environment. 
-
-Additionally, it uses DDPG from the Stable-Baselines3 library to train an agent for comparison.
+It includes a PPO algorithm optimized for training an reinforcement learning agent to navigate through the Gymnasium Car-Racing environment. Additionally, it uses DDPG from the Stable-Baselines3 library to train an agent for comparison.
 
 The documentation of this project was submitted to the university on 01/06/2024 in form of a report.
 
@@ -17,7 +15,10 @@ This GitHub includes 4 trained models. Each was trained approx. 2000 episodes wi
 - v4 - use Gymnasium's intrinsic reward structure (penalize die and don't penalize green)
 - v3 - don't penalize die
 - v2 - penalize green with additional -0.1 reward
-- v1 - use optimized reward structure 
+- v1 - use optimized reward structure
+
+Link to video of test run for -v4: https://youtu.be/o1dTX2vz5TY
+Link to video of test run for -v1: https://youtu.be/\_GDW0iDM\_r8
 
 
 ### Description of the folders and files:
