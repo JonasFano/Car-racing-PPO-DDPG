@@ -19,7 +19,7 @@ This GitHub includes 4 trained models. Each was trained approx. 2000 episodes wi
 
 Link to video of test run for -v4: https://youtu.be/o1dTX2vz5TY
 
-Link to video of test run for -v1: https://youtu.be/\_GDW0iDM\_r8
+Link to video of test run for -v1: [https://youtu.be/\_GDW0iDM\_r8](https://youtu.be/_GDW0iDM_r8)
 
 
 ### Description of the folders and files:
